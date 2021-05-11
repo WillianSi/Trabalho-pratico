@@ -1,0 +1,30 @@
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\ModeloWindowsForms\Modelo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\bin\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.exe
+C:\Users\mefma\Source\Repos\matheuefranco\modeloWindowsForms\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\bin\Debug\Modelo.exe
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.Form1.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.exe
+C:\Users\Willian Silvestre\Desktop\TRABANHO\Estrutura D. I\Pilha de palete\Modelo\obj\Debug\Modelo.pdb
